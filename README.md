@@ -6,4 +6,4 @@ Project - 1
 
   The file dqntest1.py is related to the project with all the required code. Please make sure you have OPEN AI GYM and PYTORCH [GPU] packages installed before running the code.
 
-  The epsilon_test.py is a comparission between how a linear decay of epsilon would differ from a exponential decay. Below is the graph pointing the same. ![Image](figure1.png)
+  The epsilon_test.py is a comparission between how a linear decay of epsilon would differ from a exponential decay. Below is the graph pointing the same. ![Image](Figure_1.png)
