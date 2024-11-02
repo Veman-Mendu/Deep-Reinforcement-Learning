@@ -9,3 +9,15 @@ Project - 1
   The epsilon_test.py is a comparission between how a linear decay of epsilon would differ from a exponential decay. Below is the graph pointing the same.
  
   ![Image](Figure_1.png)
+  
+# The Comparission between a step by step model training and episode by episode model training.
+
+The below image represents the step by step training where the model is trained for every step in the cart pole environment. 
+
+![Image](Figure_2.png)
+
+The below image represents the episode by episode training where the model is trained for at the end of every episode with all the required data from the episode. 
+
+![Image](Figure_4.png)
+
+I believe that in episode by episode training method the model is trying to become more and more perfect and is being overfitted for the data given. Hence we see a continous rise and fall of reward collected. But, this measure on Cart Pole is not a accurate measure. 
