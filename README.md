@@ -20,4 +20,4 @@ The below image represents the episode by episode training where the model is tr
 
 ![Image](Figure_4.png)
 
-I believe that in episode by episode training method the model is trying to become more and more perfect and is being overfitted for the data given. Hence we see a continous rise and fall of reward collected. But, this measure on Cart Pole is not a accurate measure. 
+I believe that in episode by episode training method the model is trying to become more and more perfect and is being overfitted for the data given. Hence we see a continous rise and fall of reward collected. But, this measure on Cart Pole is not an accurate measure. 
