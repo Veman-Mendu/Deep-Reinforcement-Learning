@@ -7,3 +7,8 @@ based on the Equation
 $$
 target = reward + (discount_factor * max(model(newstates)) * (1 - done))
 $$
+```markdown
+$$ 
+E = mc^2 
+$$
+```
