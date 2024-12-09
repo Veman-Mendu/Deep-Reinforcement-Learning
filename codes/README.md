@@ -23,3 +23,5 @@ In order to validate the impact of Non-Stationart Target I have implemented two 
 ![Image](targetModel/TargetPlot.png)
 
 ![Image](targetModel/noTragetPlot.png)
+
+The graphs are plotted based on the average of last 100 games for every episode upto 2000 episodes and as you can see using a target model trained the agent a lot better than training the model directly.
