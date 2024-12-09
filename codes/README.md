@@ -20,4 +20,6 @@ Where, the target_model is a copy of the original model. This target model shoul
 # No Target Training vs Target Training
 In order to validate the impact of Non-Stationart Target I have implemented two versions of Dueling DQN on 'Breakout NOFrameSkip v4' ![Target model](targetdqn.py) and ![No Target model](notargetdqn.py). The difference in their scores over a period of 2000 episodes can be observed here
 
-![Image](TargetPlot.png) vs ![Image](NoTargetPlot.png)
+![Image](TargetPlot.png)
+
+![Image](NoTargetPlot.png)
