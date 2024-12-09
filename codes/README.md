@@ -22,4 +22,4 @@ In order to validate the impact of Non-Stationart Target I have implemented two 
 
 ![Image](targetModel/TargetPlot.png)
 
-![Image](targetModel/noTargetPlot.png)
+![Image](targetModel/noTragetPlot.png)
